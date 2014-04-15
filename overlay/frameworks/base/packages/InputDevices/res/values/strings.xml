@@ -4,7 +4,7 @@
     <string name="app_label">Input Devices</string>
 
     <!-- Keyboard layouts label, used to describe the set of all built-in layouts in the UI. [CHAR LIMIT=35] -->
-    <string name="keyboard_layouts_label">Milestone 2 keyboard</string>
+    <string name="keyboard_layouts_label">Motorola XPRT keyboard</string>
 
     <!-- AZERTY keyboard layout label. [CHAR LIMIT=35] -->
     <add-resource type="string" name="keyboard_layout_azerty_label"></add-resource>
